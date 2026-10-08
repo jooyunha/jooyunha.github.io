@@ -26,3 +26,16 @@ I hold an M.S. in Clinical Nutrition from Hanyang University and an M.A. in Cogn
 - [Jun. 2017 – Aug. 2017] Research Assistant, behavioral economics lab, Cornell University
 - [2017] M.A. in Cognitive Psychology, Sungkyunkwan University
 - [2014 – 2015] Registered Dietitian, Dr. Ha's Clinic
+
+## Talks
+
+- [Sep. 2022] Invited talk, Data Science Project (SOI1008), School of Data Science, Hanyang University
+- [2021] Guest lecture, "Who is the changemaker of obesity and healthy lifestyle? Medical care vs. food business, or else?", Consumer Behavior class, University of Parma
+
+## Research
+
+- [CONSUMEHealth](https://giovannisogari.com/consumehealth-msca-project/about-the-project/2-non-categorizzato/64-abstract-of-my-project-korean.html) (EU Horizon 2020 Marie Skłodowska-Curie project, PI: Giovanni Sogari): Korean translation of the project abstract
+
+## Advisory
+
+- [Jul. 2022] Nutrition expert, Expert Advisory Meeting on Physical Activity and Obesity Prevention Programs, Seoul Metropolitan Government
