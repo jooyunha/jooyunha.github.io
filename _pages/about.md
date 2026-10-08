@@ -39,3 +39,4 @@ I hold an M.S. in Clinical Nutrition from Hanyang University and an M.A. in Cogn
 ## Advisory
 
 - [Jul. 2022] Nutrition expert, Expert Advisory Meeting on Physical Activity and Obesity Prevention Programs, Seoul Metropolitan Government
+- Advisor, research project on promoting the 2020 Dietary Reference Intakes for Koreans (KDRIs) in everyday settings (Year 2, Sub-project 1: tailored promotional media)
