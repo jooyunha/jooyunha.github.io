@@ -1,0 +1,24 @@
+# The following is the order of the links in the header of the website.
+#
+# Each link jumps to a section of the home page (_pages/about.md).
+# The template pages (publications, talks, teaching, portfolio, blog, cv, guide)
+# still exist but are hidden from the header until they have real content.
+
+main:
+  - title: "Timeline"
+    url: /#timeline
+
+  - title: "Talks"
+    url: /#talks
+
+  - title: "Research"
+    url: /#research
+
+  - title: "Publications"
+    url: /#publications
+
+  - title: "Advisory"
+    url: /#advisory
+
+  - title: "Working Papers"
+    url: /files/eating-in-context.html
