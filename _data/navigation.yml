@@ -14,6 +14,9 @@ main:
   - title: "Research"
     url: /#research
 
+  - title: "Publications"
+    url: /#publications
+
   - title: "Advisory"
     url: /#advisory
 
